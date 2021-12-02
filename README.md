@@ -9,10 +9,12 @@ RequestsとBeautifulSoup4を用いてスクレイピングの練習を行う
    ```
    git clone https://github.com/shusei928/python_lesson.git
    ```
+   
  - クローンしたpython_lessonディレクトリに移動
  　```
  　cd 作業用の任意のディレクトリ/python_lesson
 　 ```
+  
  - 必要なライブラリをインストール
  　```
    pip install -r requirements.txt
